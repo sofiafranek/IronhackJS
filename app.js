@@ -16,7 +16,7 @@ console.log('- your rover has a property of travelLog')
 console.log('- try this command -- roverOne.travelLog')
 
 // Rover Objects
-let roverOne = {
+let roverOne= {
     name: "Rover1",
     direction: "N",
     coorX: 0,
