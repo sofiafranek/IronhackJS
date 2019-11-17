@@ -123,7 +123,7 @@ function moveForward(rover) {
                 console.log(`${rover.name} you are moving towards - ${rover.direction}`);
                 console.log(rover.coorX, rover.coorY);
                 rover.travelLog.push([rover.coorX, rover.coorY]);
-                break
+                break;
             }
         }
     }
