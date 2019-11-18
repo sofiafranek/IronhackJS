@@ -193,5 +193,5 @@ function commands(shortcut) {
             break;
         }
     }
-    console.log([roverOne.travelLog, roverTwo.travelLog]);
+    console.log([roverOne.travelLog, roverTwo.travelLog])
 }
