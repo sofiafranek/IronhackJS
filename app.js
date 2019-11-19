@@ -11,7 +11,7 @@ console.log('- there are two functions to move your rover backwards and forwards
 console.log('- the two function calls are moveForward() and moveBackward')
 console.log('%c Iteration 4 | Commands', 'font-size: 1.4em')
 console.log('- commands(--put quotes around the-- f) ')
-console.log('%c Iteration 5 | Tracking', 'font-size: 1.4em')
+console.log('%c Iteration 6 | Tracking', 'font-size: 1.4em')
 console.log('- your rover has a property of travelLog')
 console.log('- try this command -- roverOne.travelLog')
 
