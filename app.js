@@ -21,7 +21,7 @@ let roverOne= {
     direction: "N",
     coorX: 0,
     coorY: 0,
-    travelLog: [],
+    travelLog: []
 }
 
 let roverTwo = {
