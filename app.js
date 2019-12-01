@@ -29,7 +29,7 @@ let roverTwo = {
     direction: "N",
     coorX: 7,
     coorY: 7,
-    travelLog: [],
+    travelLog: []
 }
 
 // The grid where the rovers will move - includes obstacles
