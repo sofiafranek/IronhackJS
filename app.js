@@ -1,4 +1,4 @@
-console.log('%c Mars Rover kata', 'font-weight: bold; font-size: 2em;')
+// console.log('%c Mars Rover kata', 'font-weight: bold; font-size: 2em;')
 console.log('%c Iteration 1 | The Rover Object', 'font-size: 1.4em')
 console.log('- There are two rovers both with the default direction of "N" named roverOne and roverTwo')
 console.log('- roverOne starts at 0,0 and roverTwo starts at 7,7.')
