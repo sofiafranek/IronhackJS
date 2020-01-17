@@ -46,7 +46,7 @@ const grid = [
     [null, null, null, null, null, null, null, null, null, null],
 ];
 
-console.log(grid);
+// console.log(grid);
 
 function turnLeft(rover) {
     switch (rover.direction) {
