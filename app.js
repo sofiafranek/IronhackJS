@@ -63,7 +63,7 @@ function turnLeft(rover) {
             rover.direction = "N";
             break;
     }
-    console.log(`Current heading of ${rover.name}: ${rover.direction}`);
+    console.log(`Current heading of ${rover.name}: ${rover.direction}`)
 }
 
 function turnRight(rover) {
